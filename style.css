@@ -1,0 +1,15 @@
+.image-content img {
+	position: relative;
+}
+.img-responsive {
+		position: relative;
+}
+.img-text {
+	position: absolute;
+	font-color: black;
+	bottom: 0;
+	padding: 20px;
+	background-color: green;
+	width: 100%;
+	opacity: 0.5;
+}
